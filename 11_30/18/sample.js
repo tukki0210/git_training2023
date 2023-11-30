@@ -1,2 +1,2 @@
-console.log(1130)
+console.log()
 console.log('test')
