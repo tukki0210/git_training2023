@@ -1,1 +1,1 @@
-console.log(Test);
+console.log("jsの書き方全部忘れました。");
